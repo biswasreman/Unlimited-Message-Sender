@@ -1,3 +1,4 @@
+# first install pyautogui using "pip install pyautogui" in command prompt
 import pyautogui
 import time 
 time.sleep(4)
